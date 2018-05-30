@@ -20,3 +20,7 @@ it('correctly calcultes the difference of 33 and 3', () => {
 it('correctly calculates the product of 12 and 12', () => {
   assert.equal(operations.multiply(12, 12), 144);
 })
+
+it('correclty calcualtes the quotient of 10 and 2', () => {
+  assert.equal(operations.divide(10, 2), 5);
+})
