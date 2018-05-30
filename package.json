@@ -1,0 +1,24 @@
+{
+  "name": "calc.js",
+  "version": "1.0.0",
+  "description": "A simple calculator application built with Node.js to learn Mocha unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiftypanda/mocha-tdd.git"
+  },
+  "keywords": [
+    "mocha",
+    "tdd",
+    "tutorial"
+  ],
+  "author": "shiftypanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiftypanda/mocha-tdd/issues"
+  },
+  "homepage": "https://github.com/shiftypanda/mocha-tdd#readme"
+}
