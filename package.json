@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/shiftypanda/mocha-tdd/issues"
   },
-  "homepage": "https://github.com/shiftypanda/mocha-tdd#readme"
+  "homepage": "https://github.com/shiftypanda/mocha-tdd#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
 }
