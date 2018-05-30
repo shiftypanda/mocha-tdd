@@ -16,3 +16,7 @@ it('correctly calcultes the sum of -1 and -1', () => {
 it('correctly calcultes the difference of 33 and 3', () => {
   assert.equal(operations.subtract(33, 3), 30);
 })
+
+it('correctly calculates the product of 12 and 12', () => {
+  assert.equal(operations.multiply(12, 12), 144);
+})
